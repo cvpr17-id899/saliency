@@ -31,14 +31,6 @@ It is also necessary to set parameters and paths in the [config.py](config.py) f
 ## Pretrained Models
 Download one of the following pretrained models:
 
-* SAM trained on SALICON: **[sam_salicon_weights.pkl]()**
-* SAM trained on MIT1003: **[sam_mit1003_weights.pkl]()**
-* SAM trained on CAT2000: **[sam_cat2000_weights.pkl]()**
-
-## Precomputed Saliency Maps
-
-We provide saliency maps predicted by our model for three standard datasets:
-
-* **[SALICON validation set]()**
-* **[MIT1003 dataset]()** 
-* **[CAT2000 training set]()** 
+* SAM trained on SALICON: **[sam_salicon_weights.pkl](https://github.com/cvpr17-id899/saliency/releases/download/1.0/sam_salicon_weights.pkl)**
+* SAM trained on MIT1003: **[sam_mit1003_weights.pkl](https://github.com/cvpr17-id899/saliency/releases/download/1.0/sam_mit1003_weights.pkl)**
+* SAM trained on CAT2000: **[sam_cat2000_weights.pkl](https://github.com/cvpr17-id899/saliency/releases/download/1.0/sam_cat2000_weights.pkl)**
